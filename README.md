@@ -1,7 +1,6 @@
+# MiniGames
 
-# Project Title
-
-A brief description of what this project does and who it's for
+A collection of interactive mini-games built for quick play and hands-on practice. Designed for casual players, students, and anyone exploring game logic and problem-solving.
 
 
 ## 🚀 About Me
