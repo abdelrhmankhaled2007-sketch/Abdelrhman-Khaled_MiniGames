@@ -14,7 +14,7 @@ I am a CS student in Cairo University"Level 2".
 ## 🛠 Skills
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2E8B57?style=for-the-badge&logo=codeforces&logoColor=white)
 
